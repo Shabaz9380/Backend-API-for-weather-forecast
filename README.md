@@ -29,7 +29,7 @@ Now go back to the base url, inorder to fetch the weather data, you have to appe
 Now you can see the json file.
 
 # Screenshots
-
+![image](https://github.com/Shabaz9380/Backend-API-for-weather-forecast/assets/98687301/68ffc633-4f00-4397-99a9-2c5283d51c06)
 
 
 # Additionals
