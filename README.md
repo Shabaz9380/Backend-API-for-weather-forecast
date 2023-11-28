@@ -30,6 +30,12 @@ Now you can see the json file.
 
 # Screenshots
 ![image](https://github.com/Shabaz9380/Backend-API-for-weather-forecast/assets/98687301/68ffc633-4f00-4397-99a9-2c5283d51c06)
+![task 3 project](https://github.com/Shabaz9380/Backend-API-for-weather-forecast/assets/98687301/9de54d0e-ba04-4272-9aa9-a52c3691906b)
+![task 3 project-2](https://github.com/Shabaz9380/Backend-API-for-weather-forecast/assets/98687301/ddc0442d-8c05-4616-9dbd-726f670ad3e0)
+![task 3 project-3](https://github.com/Shabaz9380/Backend-API-for-weather-forecast/assets/98687301/4f723223-1eb2-4e0c-98c7-4fd3fb7c432a))
+![task 3 project-4](https://github.com/Shabaz9380/Backend-API-for-weather-forecast/assets/98687301/c90715bb-9e4b-47d7-b725-99b5ca18789e)
+![task 3 project-5](https://github.com/Shabaz9380/Backend-API-for-weather-forecast/assets/98687301/5397c68d-3324-4a5c-9114-6bc341e99135)
+
 
 
 # Additionals
