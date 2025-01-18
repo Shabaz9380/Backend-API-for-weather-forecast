@@ -4,7 +4,7 @@ Application Programming Interfaces that provide access to current & historical w
 # Prerequisites
 
 - Python
-- Fladk
+- Flask
 - Requests library
 - Openweather API
 
